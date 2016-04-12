@@ -1,1 +1,22 @@
-main.css
+body {background:#999;
+font-family:Arial; color: black;
+border:10px teal; width: auto;}
+
+h1 {color: char;
+  padding: 10px;
+ word-wrap: break-word;
+text-align: center;
+display: block;
+background-color: teal;}
+
+
+ul, li {padding: 25px;
+font-family: georgia; font-weight: bold;
+}
+
+p {color: black;}
+
+.secondary {display: inline;
+color: black; font-size: 22px; text-align: center;}
+
+img {padding: 10px;} 
