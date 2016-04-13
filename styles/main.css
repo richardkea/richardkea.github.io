@@ -3,7 +3,6 @@ color: black;
 border:10px teal; width: auto;}
 
 h1 {color: char;
-  border-style: dashed;
   padding: 10px;
  word-wrap: break-word;
 text-align: center;
@@ -13,16 +12,19 @@ font-family: helvetica;}
 
 
 ul, li {padding: 10px;
-font-family: courier; font-weight: bold; 
-}
+font-family: courier;
+ font-weight: bold; }
 
 p {color: black;}
 
 .secondary {display: inline;
-color: black; font-size: 22px; text-align: center;}
+color: black;
+ font-size: 22px;
+  text-align: center; padding: 5px}
 
 img {padding: 5px;} 
 
 h2 {font-size: 14px; 
   text-align: center;
-  padding: 22px;}
+  padding: 22px;
+background-color: gray;}
