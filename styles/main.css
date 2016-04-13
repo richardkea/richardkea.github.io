@@ -9,11 +9,11 @@ h1 {color: char;
 text-align: center;
 background-color: gray;
 border-width: medium;
-font-family: red serif;}
+font-family: helvetica;}
 
 
-ul, li {padding: 5px;
-font-family: georgia; font-weight: bold;
+ul, li {padding: 10px;
+font-family: courier; font-weight: bold;
 }
 
 p {color: black;}
