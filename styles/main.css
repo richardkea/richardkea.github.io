@@ -1,16 +1,18 @@
 body {background:#999;
-font-family:Arial; color: black;
+color: black;
 border:10px teal; width: auto;}
 
 h1 {color: char;
+  border-style: dashed;
   padding: 10px;
  word-wrap: break-word;
 text-align: center;
-display: block;
-background-color: teal;}
+background-color: gray;
+border-width: medium;
+font-family: red serif;}
 
 
-ul, li {padding: 25px;
+ul, li {padding: 5px;
 font-family: georgia; font-weight: bold;
 }
 
@@ -20,3 +22,4 @@ p {color: black;}
 color: black; font-size: 22px; text-align: center;}
 
 img {padding: 10px;} 
+
