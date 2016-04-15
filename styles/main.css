@@ -7,25 +7,31 @@ h1 {color: char;
  word-wrap: break-word;
 text-align: center;
 background-color: gray;
-border-width: medium;
-font-family: helvetica;}
-
+font-family: 'Oswald', sans-serif;
+} 
 
 ul, li {padding: 10px;
 font-family: courier;
- font-weight: bold; }
+ font-weight: bold; 
+}
 
-p {color: black;}
+p {color: black;
+}
 
 .secondary {display: inline;
 color: black;
  font-size: 15px;
   text-align: center;
-   padding: 5px}
+   padding: 5px
+ }
 
-img {padding: 5px;} 
+img {padding: 2%;
+} 
 
 h2 {font-size: 14px; 
   text-align: center;
   padding: 5px;
-background-color: gray;}
+background-color: gray;
+position: absolute;
+    bottom:0;}
+
