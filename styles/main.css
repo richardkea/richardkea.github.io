@@ -8,6 +8,7 @@ h1 {color: char;
 text-align: center;
 background-color: gray;
 font-family: 'Oswald', sans-serif;
+font-size: 5em;
 } 
 
 ul, li {padding: 10px;
