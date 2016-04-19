@@ -1,35 +1,53 @@
-body {background:#999;
-color: black;
+body 
+{background
+color: coral;
 border:10px teal; width: auto;}
 
-h1 {color: char;
-  padding: 10px;
+h1 
+{color: char;
+ padding: 10px;
  word-wrap: break-word;
-text-align: center;
-background-color: gray;
-font-family: 'Oswald', sans-serif;
-font-size: 5em;
-} 
+ background-color: teal;
+ font-family: 'Oswald', sans-serif;
+ font-size: 5em;
+text-align: center;} 
 
-ul, li {padding: 10px;
-font-family: courier;
- font-weight: bold; 
-}
+ul, li 
+{padding: 10px;
+ font-family: courier;
+ font-weight: bold; }
 
-p {color: black;
-}
+p 
+{color: black;}
 
-.secondary {display: inline;
-color: black;
+.secondary 
+{display: inline;
+ color: black;
  font-size: 15px;
-  text-align: center;
-   padding: 5px
- }
+ text-align: center;
+ padding: 5px}
 
+img 
+{text-decoration: none;}
 
-h2 {font-size: 14px; 
-  text-align: center;
-  padding: 5px;
-background-color: gray;
-}
+.img-with-text {
+    text-align: justify;
+    height: 190px;}
 
+.img-with-text img 
+{display: inline-block;
+font-size: 14px; text-align: center;}
+
+h3
+{font-size: 10px;
+font-family: 'Oswald', sans-serif;
+text-decoration: none;}
+
+footer {position: absolute;
+bottom:0;}
+
+h4 
+{font-size: 14px; 
+ text-align: center;
+ padding: 5px;
+ background-color: gray;}
