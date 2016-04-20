@@ -27,27 +27,22 @@ p
  text-align: center;
  padding: 5px}
 
-img 
-{text-decoration: none;}
-
 .img-with-text {
-    text-align: justify;
     height: 190px;}
 
 .img-with-text img 
-{display: inline-block;
-font-size: 14px; text-align: center;}
-
-h3
-{font-size: 10px;
+{
+font-size: 14px;
 font-family: 'Oswald', sans-serif;
-text-decoration: none;}
+text-decoration: none;
+text-align: justify;}
 
-footer {position: absolute;
-bottom:0;}
+h3 {text-align: justify;}
 
-h4 
-{font-size: 14px; 
- text-align: center;
- padding: 5px;
- background-color: gray;}
+#footer {font-size: 14em;
+        text-align: center;
+        padding: 25%; 
+        background color:gray;
+        position: absolute;
+        bottom:0;}
+
