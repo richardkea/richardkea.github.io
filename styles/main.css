@@ -1,6 +1,6 @@
 body 
 {background
-color: coral;
+color: black;
 border:10px teal; width: auto;}
 
 h1 
@@ -12,7 +12,7 @@ h1
  font-size: 5em;
 text-align: center;} 
 
-ul, li 
+li, ul 
 {padding: 10px;
  font-family: courier;
  font-weight: bold; }
@@ -39,10 +39,15 @@ text-align: justify;}
 
 h3 {text-align: justify;}
 
-#footer {font-size: 14em;
-        text-align: center;
-        padding: 25%; 
+.contact {text-align: center;
+border: 10px teal; width: auto; }
+
+#footerhome {font-size: 1em;
+        padding: 5%; 
         background color:gray;
-        position: absolute;
-        bottom:0;}
+        padding: 10px;
+        display:list-item;
+}
+
+
 
