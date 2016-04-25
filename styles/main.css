@@ -1,53 +1,39 @@
-body 
-{background
-color: black;
-border:10px teal; width: auto;}
+body {background-color: #ece7de; 
+}
 
-h1 
-{color: char;
- padding: 10px;
- word-wrap: break-word;
- background-color: teal;
- font-family: 'Oswald', sans-serif;
- font-size: 5em;
-text-align: center;} 
-
-li, ul 
-{padding: 10px;
- font-family: courier;
- font-weight: bold; }
-
-p 
-{color: black;}
-
-.secondary 
-{display: inline;
- color: black;
- font-size: 15px;
- text-align: center;
- padding: 5px}
-
-.img-with-text {
-    height: 190px;}
-
-.img-with-text img 
-{
-font-size: 14px;
-font-family: 'Oswald', sans-serif;
-text-decoration: none;
-text-align: justify;}
-
-h3 {text-align: justify;}
-
-.contact {text-align: center;
-border: 10px teal; width: auto; }
-
-#footerhome {font-size: 1em;
-        padding: 5%; 
-        background color:gray;
-        padding: 10px;
-        display:list-item;
+nav li{display: inline-block;
+       padding: .05% 5% .05% 5%;
+       background-color: #ece7de;
+       font-color:teal;
 }
 
 
+header {text-align: center;
+        background-color: #a1e1c5;
+}
+
+h1  {border:3%;
+     color:teal;
+     text-align: center;
+}
+
+h2 {margin:4rem;
+    color: teal;}
+
+section {text-align: center;      
+}
+
+.row img {height: 80%;}
+
+
+h3{font-size: 100%;
+}
+
+.connect {background-size: 100%;
+          display:inline-block;}
+
+footer {background-color: #a1e1c5;
+          padding:1rem;
+          display:inline-block;       
+}
 
