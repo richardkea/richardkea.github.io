@@ -2,18 +2,26 @@ body {background-color: #ece7de;
 }
 nav{
   padding-bottom: 9px;
-    padding-top: 9px;    height: 42px;
+    padding-top: 9px;    
+    height: 42px;
+
 }
+
 ul{list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
+
 nav li{display: inline-block;
        padding: .05% 5% .05% 5%;
        background-color: #ece7de;
        font-color:teal;
+       
+
 }
+
+li {border-radius: 5px;}
 
 li.contact{
   display:inline;
