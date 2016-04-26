@@ -17,8 +17,6 @@ nav li{display: inline-block;
        padding: .05% 5% .05% 5%;
        background-color: #ece7de;
        font-color:teal;
-       
-
 }
 
 li {border-radius: 5px;}
@@ -35,6 +33,8 @@ div.col-1{
   background-color:#a1e1c5;
 }
 
+.head {height:100%; width:100%;}
+
 .col-11{
   float:left;
   width:91.6%;
@@ -50,8 +50,12 @@ div.col-1{
   margin-left: 0px;
 }
 
+.row {height: 100%; 
+      width:100%;}
+
 .blogposts{
    padding:1%;
+
 }
 
 a{text-decoration: none;
@@ -84,10 +88,10 @@ h2 {margin:4rem;
         font-family: 'Orbitron', sans-serif;
 }
 
-
 h3{font-size: 1em;
 font:sans-serif;
 font-color: teal;
+text-align: center;
 }
 
 
@@ -110,3 +114,5 @@ footer {background-color: #a1e1c5;
           padding-bottom:1rem;
 }
 
+@media only screen and (min-width:480px) and (max-width: 640px)  {...}7
+@media only screen and (max-width: 479px)  {...}
