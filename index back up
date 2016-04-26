@@ -9,8 +9,6 @@
        <link  href="styles/main.css" rel="stylesheet" type="text/css">
        <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
        <link href='https://fonts.googleapis.com/css?family=Orbitron:700' rel='stylesheet' type='text/css'>
-       <link href='https://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
-
  </head>
 
 <body>
@@ -26,7 +24,7 @@
      <nav>
        <ul>
         <li><a class"mainlink" href="index.html" title="">Home</a></li>
-        <li><a class"mainlink" href="styles/about.html" title="">About</a></li>
+        <li><a class"mainlink" href="about.html" title="">About</a></li>
        </ul>
      </nav>
    </header>
@@ -38,73 +36,72 @@
   <div class= "col-3"></div>
   <div class="col-9">
   
-<!-- start div-->
-
+<section>
  <h2> My Blog </h2>
 
-<div class="blogposts">
-
-  <div class="one-third column">
-   <a class="enterblog" href="blog/c1-time-and-habits-blog.html">
-    <img src="http://levitateblog.com/wp-content/uploads/2014/08/time-management11.jpg" width="190px" alt= "sometext">
+<article>
+ <div class="one-third column">
+  <a class="enterblog" href="blog/c1-time-and-habits-blog.html">
+   <img src="http://levitateblog.com/wp-content/uploads/2014/08/time-management11.jpg" width="190px" alt= "sometext">
      <h3>Time and Habits</h3> 
    </a>
    </div>
-   
-  
+   </article>
+
+  <article>
   <div class="one-third column">
   <a class="enterblog" href="blog/c1-reflection-blog.html">
    <img id src="http://vignette4.wikia.nocookie.net/creepypasta/images/7/73/20071230reflection1.jpg/revision/latest?cb=20130613034312" width="190px" alt>
      <h3>Reflection</h3>
     </a>
    </div>
-  
+  </article>
 
+  <article>
   <div class="one-third column">
   <a class="enterblog" href="blog/t2-html-css-dom-p1.html">
    <img src="http://usabilitygeek.com/wp-content/uploads/2012/04/HTML-Guidelines-Usability-SEO-CSS.jpg" width="190px" alt> 
      <h3>HTML CSS & DOM 1.0</h3>
     </a> 
    </div>
+  </article>  
 
- 
+  <article>
   <div class="one-third column">
   <a class="enterblog" href="blog/t2-html-css-dom-p2.html">
    <img src="http://avocaventures.com/wp-content/uploads/2014/11/lines-of-code.jpg" width="190px" alt> 
      <h3>HTML CSS & DOM 2.0</h3>
    </a> 
    </div>
+  </article> 
 
-  
+  <article>
   <div class="one-third column">
   <a class="enterblog" href="blog/c2-emotional-intelligence.html">
    <img src="http://themindunleashed.org/wp-content/uploads/2015/03/emotional-intelligence.jpg" width="190px" alt> 
      <h3>Ecmotional Intelligence</h3>
    </a>  
    </div> 
+ </article>
 
-  
+  <article>
   <div class="one-third column"> 
   <a class="enterblog" href="blog/c3-meditation-process.html">
     <img src= "http://www.feelguide.com/wp-content/uploads/2014/11/BrainHarvardMeditation-657x360.jpg" width="190px" alt>
        <h3>Meditation Process</h3>
     </a> 
    </div>
- 
+  </article>
    
+  <article>
   <div class="one-third column"> 
   <a class="enterblog" href="blog/t3-design-to-web-blog.html">
     <img src= "http://www.yottaa.com/wp-content/uploads/2015/11/Responsive-Web-Design-Hilton-Head.jpgt1448449396727ampwidth685" width="190px" alt>
        <h3>Design to Web</h3>
       </a> 
      </div>
-   </div>
-   <!--</a>-->
-   </div>
-   
-
-<!-- end div -->
-</div>
+    </article>
+   </section>
   </div>
  <div class="col-4"></div>
 </div>
