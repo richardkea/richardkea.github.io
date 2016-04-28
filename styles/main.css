@@ -1,5 +1,5 @@
-body {background-color: #6c7e94;
-      background-image:url(http://e2ua.com/data/wallpapers/96/WDF_1401664.jpg);
+body {background-image:url(http://wallpapercave.com/wp/HLy0ev6.png);
+  
       padding-right:1%;
       padding-left: 1%;
 } 
@@ -98,6 +98,7 @@ font:sans-serif;
 font-color: teal;
 text-align: center;
 text-decoration: none;
+color:#666699;
 
 
 }
@@ -120,6 +121,7 @@ footer {background-color: #a1e1c5;
           text-align: center;
           padding-top: 1rem;
           padding-bottom:1%;
+          text-decoration: none;
 }
 
 
