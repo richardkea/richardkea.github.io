@@ -1,13 +1,19 @@
-body {background-color: #ece7de;
-    {position: absolute;} 
+body {background-color: #6c7e94;
+      background-image:url(http://e2ua.com/data/wallpapers/96/WDF_1401664.jpg);
+      padding-right:1%;
+      padding-left: 1%;
+} 
+
 }
 nav{
   padding-bottom: 3rem;
     padding-top: 3rem;  
     margin-bottom: 10%;
-  
-
 }
+
+div
+
+.blogposts {padding-left: 10%;}
 
 ul{list-style-type: none;
     margin: 0;
@@ -48,6 +54,9 @@ li.contact{
 .row {height: 100%; 
       width:100%;}
 
+.footer {height:100%;
+        width:100%;}
+
 }
 
 a {text-decoration: none;
@@ -72,7 +81,7 @@ h1  {border:3%;
 }
 
 h2 {margin-top:1%;
-    color: teal;
+    color: black;
     text-align: center;
     font-family: 'Francois One', sans-serif;
 }
