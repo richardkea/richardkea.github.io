@@ -1,4 +1,4 @@
-body {background-image:url(http://wallpapercave.com/wp/HLy0ev6.png);
+body {background-color:#E6E5F2;
   
       padding-right:1%;
       padding-left: 1%;
@@ -6,7 +6,7 @@ body {background-image:url(http://wallpapercave.com/wp/HLy0ev6.png);
 
 }
 nav{
-  padding-bottom: 3rem;
+  padding-bottom: 5%;
     padding-top: 3rem;  
     margin-bottom: 10%;
 }
@@ -17,7 +17,6 @@ div
 
 ul{list-style-type: none;
     margin: 0;
-    padding: 0;
     overflow: hidden;
 }
 
@@ -25,6 +24,7 @@ nav li{display: inline-block;
        padding: .05% 5% .05% 5%;
        background-color: #ece7de;
        font-color:teal;
+       padding-bottom:5%;
 }
 
 li {border-radius: 5px;}
@@ -46,9 +46,10 @@ li.contact{
 .one-third{
   width:30%;
   height:auto;
-  padding:20px;
+  padding:1%;
   text-align: center;
   margin-left: 0px;
+
 }
 
 .row {height: 100%; 
@@ -107,7 +108,7 @@ color:#666699;
 section {text-align: center;      
 }
 
-.row img {height: 80%;
+.row img {height: 100%;
 }
 
 
